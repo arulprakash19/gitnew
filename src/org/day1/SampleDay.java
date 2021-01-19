@@ -4,5 +4,8 @@ public class SampleDay {
 public static void main(String[] args) {
 	int age=18;
 	System.out.println(age);
+	
+	String t="arul";
+	System.out.println(t);
 }
 }
